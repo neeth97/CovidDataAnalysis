@@ -1,5 +1,5 @@
 # CovidDataAnalysis
-Performing Data Exploration and Data Cleaning using SQL on Covid Data from Jan 2020 - March 2023.
+Performing Data Exploration using SQL on Covid Data from Jan 2020 - March 2023.
 
 
 Data: https://ourworldindata.org/covid-deaths
